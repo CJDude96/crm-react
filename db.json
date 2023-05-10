@@ -1,0 +1,36 @@
+{
+  "clients": [
+    {
+      "name": "Marcelo",
+      "company": "Adidas",
+      "email": "juan@juan.com",
+      "phone": "102013313",
+      "notes": "nota",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Karen",
+      "phone": 138198313,
+      "email": "karen@juan.com",
+      "notes": "nota",
+      "company": "Puma"
+    },
+    {
+      "id": 3,
+      "name": "Josue",
+      "phone": 31983913,
+      "email": "josue@juan.com",
+      "notes": "nota",
+      "company": "Nike"
+    },
+    {
+      "id": 4,
+      "name": "Miguel",
+      "phone": 319381983,
+      "email": "miguel@juan.com",
+      "notes": "nota",
+      "company": "Nike"
+    }
+  ]
+}
